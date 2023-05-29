@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-20T12:07:45 IST" name="Default suite" finished-at="2023-05-20T12:07:45 IST" duration-ms="34">
+    <groups>
+    </groups>
+    <test started-at="2023-05-20T12:07:45 IST" name="Default test" finished-at="2023-05-20T12:07:45 IST" duration-ms="34">
+      <class name="New_Generation.Property_Files">
+        <test-method signature="test1()[pri:0, instance:New_Generation.Property_Files@61d6015a]" started-at="2023-05-20T12:07:45 IST" name="test1" finished-at="2023-05-20T12:07:45 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- New_Generation.Property_Files -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
