@@ -42,5 +42,9 @@ public class POM_POM
 	{
 		egg.click();
 	}
+	public void roti()
+	{
+		
+	}
 	
 }
