@@ -33,6 +33,8 @@ public class POM_Script extends Generic_Script
 		p.neekenduku();
 		Thread.sleep(2000);
 		p.egg();
+		
+		
 			
 	}
 }
